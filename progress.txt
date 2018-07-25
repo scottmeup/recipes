@@ -1,1 +1,2 @@
-Step 18 - have just run `sarah_changes.sh`
+Step 20 - modified chili-recipe.txt to reflect the contents at the end of the
+part 20 video
